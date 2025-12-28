@@ -1,5 +1,8 @@
 # 💫 About Me:
 i am currently btech students <br>i am javascript master <br>i know whole about in javascript<br>
+<br> i am master in excell 
+<br> i am doing master in html css5
+<br> i am currently shifting cloud computing...
 
 
 ## 🌐 Socials:
