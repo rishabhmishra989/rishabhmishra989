@@ -1,5 +1,5 @@
 # 💫 About Me:
-am an enthusiastic Java Spring Boot Developer focused on building robust and scalable backend systems. With hands-on experience in developing REST APIs and working with databases, I aim to create efficient and clean code solutions.
+I am an enthusiastic Java Spring Boot Developer focused on building robust and scalable backend systems. With hands-on experience in developing REST APIs and working with databases, I aim to create efficient and clean code solutions.
 
 My technical skill set includes Java, Spring Boot, Hibernate, MySQL, and basic frontend technologies. I have a strong interest in backend architecture and problem-solving.
 
