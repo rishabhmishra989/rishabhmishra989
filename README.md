@@ -1,9 +1,9 @@
 # 💫 About Me:
-i am currently btech students <br>i am javascript master <br>i know whole about in javascript<br>
-<br> currently i am frontend developer
-<br> i am master in excell 
-<br> i am doing master in html css5
-<br> i am currently shifting cloud computing...
+am an enthusiastic Java Spring Boot Developer focused on building robust and scalable backend systems. With hands-on experience in developing REST APIs and working with databases, I aim to create efficient and clean code solutions.
+
+My technical skill set includes Java, Spring Boot, Hibernate, MySQL, and basic frontend technologies. I have a strong interest in backend architecture and problem-solving.
+
+With a background in ITI and web development, I bring a practical understanding of full-stack concepts. I am actively seeking opportunities to contribute to real-world projects and grow in the software development industry.
 
 
 ## 🌐 Socials:
