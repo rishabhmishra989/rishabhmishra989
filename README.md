@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **rishabhkum34@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**  Generative AI & Python Projects
-- 🌱 **I’m currently learning:**Python, Generative AI, LLMs, RAG & AI Agents
-- 👯 **I’m looking to collaborate on:** GenAI & AI-powered projects
-- 🤔 **I’m looking for help with:** LLM Applications, RAG & AI Agents
-- 💬 **Ask me about:** Python, Generative AI & AI Projects
-- 📫 **How to reach me:** rishabhkum34@gmail.com
-- 😄 **Pronouns:** RISHABH MISHRA
-- ⚡ **Fun fact:** Building something new every day
+-  **I’m currently working on:**  Generative AI & Python Projects
+-  **I’m currently learning:**Python, Generative AI, LLMs, RAG & AI Agents
+-  **I’m looking to collaborate on:** GenAI & AI-powered projects
+-  **I’m looking for help with:** LLM Applications, RAG & AI Agents
+-  **Ask me about:** Python, Generative AI & AI Projects
+-  **How to reach me:** rishabhkum34@gmail.com
+-  **Pronouns:** RISHABH MISHRA
+-  **Fun fact:** Building something new every day
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabh_mishra_0000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishabh-mishra-3110292bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhkum34@gmail.com) 
