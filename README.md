@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **rishabhkum34@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 -  **I’m currently working on:**  Generative AI & Python Projects
--  **I’m currently learning:**Python, Generative AI, LLMs, RAG & AI Agents
+-  **I’m currently learning:** Python, Generative AI, LLMs, RAG & AI Agents
 -  **I’m looking to collaborate on:** GenAI & AI-powered projects
 -  **I’m looking for help with:** LLM Applications, RAG & AI Agents
 -  **Ask me about:** Python, Generative AI & AI Projects
