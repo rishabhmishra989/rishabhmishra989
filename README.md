@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm RISHABH MISHRA
-**A passionate AI ENGINEEER || JAVA DEVELOPER  || DATA SCIENCE ENGINEER**
+**A Passionate AI Engineer | Generative AI | LLMs | Building Intelligent Applications**
 
 Email Me 👉 ✉️ **rishabhkum34@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
